@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+}
+
+.switch {
+    display: flex;
+   background-color:aqua;
+   width: 50%;
+   
+}
+
+.switch:hover {
+    transform: translateY(-5px);
+}
