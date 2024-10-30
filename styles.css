@@ -3,8 +3,8 @@ body {
 }
 
 .switch {
-    /* display: flex; */
-   background-color: gray;
+    display: flex;
+   background-color: dimgray;
    /* width: 50%; */
    
 }
