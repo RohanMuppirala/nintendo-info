@@ -3,9 +3,9 @@ body {
 }
 
 .switch {
-    display: flex;
-   background-color:aqua;
-   width: 50%;
+    /* display: flex; */
+   background-color: Gray;
+   /* width: 50%; */
    
 }
 
